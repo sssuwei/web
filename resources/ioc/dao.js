@@ -4,8 +4,8 @@ var ioc = {
         fields: {
 			driverClass: 'com.mysql.jdbc.Driver',
 			jdbcUrl: 'jdbc:mysql://localhost:3306/robot_control?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT&useSSL=false',
-            user: 'root',
-            password: 'hugh1982.'
+            user: 'robot_control',
+            password: 'ddyDL4HsmBsC4N6N'
         }
     },
 	
